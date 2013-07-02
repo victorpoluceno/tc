@@ -1,1 +1,2 @@
-Flask==0.10.1
+flask==0.10.1
+-e git+http://github.com/sjl/flask-lesscss.git#egg=flaslesscss
